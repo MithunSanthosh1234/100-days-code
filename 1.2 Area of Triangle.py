@@ -1,6 +1,25 @@
-# Read the numbers b and h like this:
+# Statement
+### Write a program that takes three numbers and prints their sum. Every number is given on a separate line.
+
+```
+Example input
+2
+3
+6
+
+Example output
+11
+
+```
+
+
+
+# Python Code:
+```
 b = int(input())
 h = int(input())
 # Print the result with print()
 a = (1/2)*b*h
 print(a)
+
+```
